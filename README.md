@@ -5,17 +5,17 @@
 A sample stack to consume messages from AWS VPC Flow Logs, enrich them with security focused information and store them in both ElasticSearch, and S3 to be consumed by AWS RedShift.
 
 ## Sources
-- *AWS VPC Flow Logs*
+- **AWS VPC Flow Logs**
 
 ## Sinks
-- *ElasticSearch*
-- *Amazon RedShift*
+- **ElasticSearch**
+- **Amazon RedShift**
 
 ## Modules
-- *aws-vpcfl*
-- *aws-lookup-sg*
-- *lookup-geo*
-- *lookup-protocol*
-- *lookup-port*
-- *enrc-flatten*
+- **aws-vpcfl**
+- **aws-lookup-sg**
+- **lookup-geo**
+- **lookup-protocol**
+- **lookup-port**
+- **enrc-flatten**
 
