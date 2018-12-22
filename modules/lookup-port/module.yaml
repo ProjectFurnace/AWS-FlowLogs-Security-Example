@@ -1,0 +1,15 @@
+id: lookup-port
+version: 1.0.0
+runtime: nodejs8.10
+category: enrichment
+core-version:
+  min: 0.1.0
+  max: 0.3.1
+meta:
+  name: Port Lookup
+  description: Enrich information about the port number in the event
+  keywords: [enrichment,port,lookup]
+  website: https://projectfurnace.github.io
+author:
+  name: Guillem Mateos
+license: MIT

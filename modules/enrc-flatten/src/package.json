@@ -1,0 +1,15 @@
+{
+  "name": "enrc-flatten",
+  "version": "1.0.0",
+  "description": "Furnace module to flatten a json event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Mound <david.mound@***REMOVED***>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "flat": "^4.1.0"
+  },
+  "homepage": "https://projectfurnace.io"
+}

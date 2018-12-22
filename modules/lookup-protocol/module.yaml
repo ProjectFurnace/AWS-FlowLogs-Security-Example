@@ -1,0 +1,15 @@
+id: lookup-protocol
+version: 1.0.0
+runtime: nodejs8.10
+category: enrichment
+core-version:
+  min: 0.1.0
+  max: 0.3.1
+meta:
+  name: Protocol Lookup
+  description: Enrich information about the protocol number in the event
+  keywords: [enrichment,protocol,lookup]
+  website: https://projectfurnace.github.io
+author:
+  name: Guillem Mateos
+license: MIT

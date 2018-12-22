@@ -1,0 +1,10 @@
+- name: es
+  type: AwsFirehose
+  resource: es
+  aws:
+    destination: elasticsearch
+    elasticsearchConfiguration:
+        indexName: 'furnace'
+        typeName: 'furnace'
+
+

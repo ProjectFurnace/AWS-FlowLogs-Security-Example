@@ -1,0 +1,20 @@
+id: lookup-port
+version: 1.0.0
+config-groups:
+  default:
+    port_field:
+      label: The field to lookup for port number
+      mandatory: true
+      type: single
+      default: 'network.src_port'
+      visible: true
+      validator: '[A-z0-9\._]+'
+      help: 'Specify the field with the port number you want to use to enrich'
+    output_port_field:
+      label: What field name to put the enrichment data into
+      mandatory: false
+      type: single
+      default: 'src_port_data'
+      visible: true
+      validator: '[A-z\_]+'
+      help: 'Specify the field where you want enrichment data saved to'

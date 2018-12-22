@@ -1,0 +1,24 @@
+{
+  "name": "lookup-protocol",
+  "version": "1.0.0",
+  "description": "Furnace module to enrich protocol information",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@project-furnace/csvtomap": "^0.1.0",
+    "@project-furnace/simplejsonutils": "^0.1.0"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "keywords": [
+    "enrich",
+    "furnace",
+    "protocol"
+  ],
+  "author": "Guillem Mateos <guillem.mateos@***REMOVED***>",
+  "license": "Apache-2.0",
+  "homepage": "https://projectfurnace.io"
+}

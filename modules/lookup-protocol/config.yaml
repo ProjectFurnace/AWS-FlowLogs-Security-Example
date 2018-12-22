@@ -1,0 +1,12 @@
+id: lookup-protocol
+version: 1.0.0
+config-groups:
+  default:
+    protocol_field:
+      label: The field to lookup for protocol number
+      mandatory: true
+      type: single
+      default: 'network.ip.proto'
+      visible: true
+      validator: '[A-z0-9\._]+'
+      help: 'Specify the field with the protocol number you want to use to enrich'

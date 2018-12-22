@@ -1,0 +1,5 @@
+- name: flowlogs
+  type: KinesisStream
+  initialize: false
+  aws:
+    shardCount: 1

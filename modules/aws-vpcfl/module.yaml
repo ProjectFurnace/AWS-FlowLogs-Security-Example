@@ -1,0 +1,15 @@
+id: aws-vpcfl
+version: 1.0.0
+runtime: nodejs8.10
+category: ingest
+core-version:
+  min: 0.1.0
+  max: 0.3.1
+meta:
+  name: AWS VPC Flow Logs
+  description: This module ingests data from AWS VPC Flow Logs
+  keywords: [passthrough,aws,vpc,flow logs]
+  website: https://projectfurnace.github.io
+author:
+  name: Furnace Collective
+license: MIT

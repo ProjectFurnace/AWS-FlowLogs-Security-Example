@@ -1,0 +1,10 @@
+platform:
+    type: aws
+    aws: {defaultBatchSize: 10}
+state:
+    repo: 'https://github.com/ProjectFurnace/AWS-FlowLogs-Security-Example-state'
+environments:
+    - dev
+    - staging
+    - production
+name: aws-fl-sec

@@ -1,0 +1,15 @@
+id: enrc-flatten
+version: 1.0.0
+runtime: nodejs8.10
+category: enrichments
+core-version:
+  min: 0.1.0
+  max: 0.3.1
+meta:
+  name: Flatten Module
+  description: This module flattens the json event
+  keywords: [flatten]
+  website: https://projectfurnace.github.io
+author: Dave Mound
+  name: Furnace Collective 
+license: MIT

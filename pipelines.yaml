@@ -1,0 +1,14 @@
+
+- name: enrichment
+  modules:
+    - name: geo
+      module: lookup-geo
+    - name: securitygroup
+      module: aws-lookup-sg
+    - name: port
+      module: lookup-port
+    - name: protocol
+      module: lookup-protocol
+    - name: flatten
+      module: enrc-flatten
+
