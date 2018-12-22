@@ -7,4 +7,12 @@
         indexName: 'furnace'
         typeName: 'furnace'
 
+- name: redshift
+  type: AwsFirehose
+  resource: redshift
+  aws:
+    destination: redshift
+    redshiftConfiguration:
+      dataTableName: 'furnace'
+      username: 'master'
 

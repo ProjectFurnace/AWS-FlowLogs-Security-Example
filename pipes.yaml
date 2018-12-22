@@ -4,3 +4,6 @@
 
 - pipeline: enrichment
   sink: es
+
+- pipeline: enrichment
+  sink: redshift
