@@ -12,7 +12,7 @@
     "@project-furnace/eventutils": "^0.1.0"
   },
   "keywords": ["aws","vpc","flow logs"],
-  "author": "Guillem Mateos <guillem.mateos@***REMOVED***>",
+  "author": "Guillem Mateos <guillem.mateos@furnace.org>",
   "license": "Apache-2.0",
-  "homepage": "https://projectfurnace.io"
+  "homepage": "https://furnace.org"
 }
