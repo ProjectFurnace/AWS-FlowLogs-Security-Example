@@ -9,7 +9,7 @@ meta:
   name: Geo Enrichment Module
   description: This module enriches source and destination IPs with Geo info
   keywords: [geo]
-  website: https://projectfurnace.github.io
+  website: https://furnace.org
 author: Dave Mound
   name: Furnace Collective
 license: MIT
