@@ -9,7 +9,7 @@ meta:
   name: Flatten Module
   description: This module flattens the json event
   keywords: [flatten]
-  website: https://projectfurnace.github.io
+  website: https://furnace.org
 author: Dave Mound
   name: Furnace Collective 
 license: MIT
