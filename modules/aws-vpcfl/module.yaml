@@ -9,7 +9,7 @@ meta:
   name: AWS VPC Flow Logs
   description: This module ingests data from AWS VPC Flow Logs
   keywords: [passthrough,aws,vpc,flow logs]
-  website: https://projectfurnace.github.io
+  website: https://furnace.org
 author:
   name: Furnace Collective
 license: MIT
