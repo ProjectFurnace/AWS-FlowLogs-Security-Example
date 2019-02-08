@@ -9,7 +9,7 @@ meta:
   name: Protocol Lookup
   description: Enrich information about the protocol number in the event
   keywords: [enrichment,protocol,lookup]
-  website: https://projectfurnace.github.io
+  website: https://furnace.org
 author:
   name: Guillem Mateos
 license: MIT
