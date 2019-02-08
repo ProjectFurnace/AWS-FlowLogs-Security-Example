@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dave Mound <david.mound@***REMOVED***>",
+  "author": "Dave Mound <david.mound@furnace.org>",
   "license": "Apache-2.0",
   "dependencies": {
     "@project-furnace/simplejsonutils": "^0.1.1",
@@ -14,5 +14,5 @@
     "path": "^0.12.7",
     "private-ip": "^1.0.5"
   },
-  "homepage": "https://projectfurnace.io"
+  "homepage": "https://furnace.org"
 }
