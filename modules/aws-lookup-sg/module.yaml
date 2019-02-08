@@ -9,7 +9,7 @@ meta:
   name: Adds security group ids to the event
   description: Adds security group ids to the event
   keywords: [aws, securitygroups]
-  website: https://projectfurnace.github.io
+  website: https://furnace.org
 author:
   name: Furnace Collective
 license: MIT
