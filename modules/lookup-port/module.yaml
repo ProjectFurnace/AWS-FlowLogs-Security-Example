@@ -9,7 +9,7 @@ meta:
   name: Port Lookup
   description: Enrich information about the port number in the event
   keywords: [enrichment,port,lookup]
-  website: https://projectfurnace.github.io
+  website: https://furnace.org
 author:
   name: Guillem Mateos
 license: MIT
